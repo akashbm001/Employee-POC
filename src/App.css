@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  
+}
+
+.baground{
+  background-color: rgb(255, 251, 202);
+  background-image: linear-gradient(to right,rgb(255, 232, 132),rgb(255, 249, 183),rgb(255, 251, 202),rgb(255, 251, 202), rgb(255, 249, 183), rgb(255, 232, 132));
+  padding-bottom: 30%;
+}
+
+.header{
+  color:rgb(203, 180, 0);
+  
+}
